@@ -1,5 +1,5 @@
 import { Dispatch, createContext, useContext, useReducer } from "react"
-import { computeActualDispString, computeAllPixels, pixelUpdate } from "./watch_display"
+import { computeActualDispString, computeAllPixels } from "./watch_display"
 
 function currentTimeAsDispString(): string {
     const date = new Date()
