@@ -1,5 +1,9 @@
 # Sensor Watch display playground
 
+## Try it!
+
+https://hchargois.github.io/sensor-watch-playground/
+
 ## What is this?
 
 This web app replicates the LCD display of the Casio F-91W watch. Its goal is to help with developing new features on the Sensor Watch, a programmable, ARM-based microcontroller board that replaces the watch's original board.
