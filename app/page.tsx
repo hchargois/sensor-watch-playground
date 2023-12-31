@@ -210,7 +210,7 @@ function About() {
       a programmable, ARM-based microcontroller board that replaces the watch&apos;s original board.
     </p>
     <p>
-      The display is primarily consists of 7-segment digits, but there are a lot of exceptions,
+      The display primarily consists of 7-segment digits, but there are a lot of exceptions,
       such as digits where multiple segments are tied together.
       These quirks create various limitations on the characters that can be displayed in each position.
     </p>
